@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: Poppins, sans-serif
+}
+.footer{
+    background-color:  #1a237e ;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.rata-tengah{
+    display: flex;
+    justify-content: center;
+}
+.rata-kiri{
+    text-align: left !important;
+}
+.flex{
+    display: flex;
+}
+.align-item-center{
+    display: flex;
+    align-items: center;
+}
+.align-item-center{
+    display: flex;
+    align-items: center;
+}  
+.mb{
+    margin-bottom: 0;
+}
+.f-width > *{
+    width: 100%;
+    scale: 1;
+}
+.justify-center{
+    display: flex;
+    justify-content: center;
+}
